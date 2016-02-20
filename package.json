@@ -1,6 +1,7 @@
 {
   "name": "make-license",
   "description": "generate a LICENSE for your open source project",
+  "version": "0.1.1",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha test/index.test.js -w ",
