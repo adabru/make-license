@@ -1,4 +1,4 @@
-#!/usr/bin/node --harmony
+#!/usr/bin/env node --harmony
 
 var inquirer = require("inquirer");
 var makeLicense = require("./make-license.js")
